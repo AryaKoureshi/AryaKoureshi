@@ -2,7 +2,7 @@
 
 - **I'm Arya Koureshi.**  
 - **Masters student of Biomedical Engineering (Bioelectric) at Sharif University of Technology**
-- **Researcher at [Ghazizadelab](https://www.ghazizadehlab.org/index.php/people/)**
+- **Researcher at [Ghazizadeh Lab](https://www.ghazizadehlab.org/index.php/people/)**
 - **Researcher at Sharif Brain Center (SBC)**
 
 - **I am interested in BCI, brain-to-brain interfaces (BBIs), and Neuroscience. Currently, I am working on developing a real-time motor imagery-based BCI in an exoskeleton.**
