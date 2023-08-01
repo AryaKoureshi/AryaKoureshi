@@ -10,7 +10,7 @@
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=aryakoureshi&show_icons=true&theme=transparent" />
-  <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=aryakoureshi&theme=transparent" />
+  <img width="52%" src="https://github-readme-streak-stats.herokuapp.com/?user=aryakoureshi&theme=transparent" />
 </p>
 
 <!--
