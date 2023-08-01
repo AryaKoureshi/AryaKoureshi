@@ -14,17 +14,18 @@
 **You can see more about me at https://aryakoureshi.github.io**
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=aryakoureshi&show_icons=true&theme=transparent" />
-  <img width="51%" src="https://github-readme-streak-stats.herokuapp.com/?user=aryakoureshi&theme=transparent" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=aryakoureshi&show_icons=true&theme=transparent"/>
+  <img width="51%" src="https://github-readme-streak-stats.herokuapp.com/?user=aryakoureshi&theme=transparent"/>
 </p>
 
 ### Repositories: 
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aryakoureshi&repo=Brain-tumor-detection&show_icons=true&theme=transparent)](https://github.com/aryakoureshi/Brain-tumor-detection)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aryakoureshi&repo=Emotion-Detection&show_icons=true&theme=transparent)](https://github.com/aryakoureshi/Emotion-Detection)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aryakoureshi&repo=SolSudo&show_icons=true&theme=transparent)](https://github.com/aryakoureshi/SolSudo)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aryakoureshi&repo=RBD&show_icons=true&theme=transparent)](https://github.com/aryakoureshi/RBD)
+<p align="center">
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aryakoureshi&repo=Brain-tumor-detection&show_icons=true&theme=transparent)](https://github.com/aryakoureshi/Brain-tumor-detection)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aryakoureshi&repo=Emotion-Detection&show_icons=true&theme=transparent)](https://github.com/aryakoureshi/Emotion-Detection)
+  
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aryakoureshi&repo=SolSudo&show_icons=true&theme=transparent)](https://github.com/aryakoureshi/SolSudo)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aryakoureshi&repo=RBD&show_icons=true&theme=transparent)](https://github.com/aryakoureshi/RBD)
+</p>
 
 <!--
 **AryaKoureshi/AryaKoureshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
