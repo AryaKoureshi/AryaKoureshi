@@ -20,11 +20,13 @@
 
 ### Repositories: 
 <p align="center">
+  
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aryakoureshi&repo=Brain-tumor-detection&show_icons=true&theme=transparent)](https://github.com/aryakoureshi/Brain-tumor-detection)
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aryakoureshi&repo=Emotion-Detection&show_icons=true&theme=transparent)](https://github.com/aryakoureshi/Emotion-Detection)
   
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aryakoureshi&repo=SolSudo&show_icons=true&theme=transparent)](https://github.com/aryakoureshi/SolSudo)
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aryakoureshi&repo=RBD&show_icons=true&theme=transparent)](https://github.com/aryakoureshi/RBD)
+  
 </p>
 
 <!--
