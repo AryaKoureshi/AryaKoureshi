@@ -11,13 +11,20 @@
 
 **You can see more about me at https://aryakoureshi.github.io**
 
+<p align="center" href="https://github.com/aryakoureshi">
+    <img width="60%" src="https://github-stats-alpha.vercel.app/api?username=aryakoureshi&cc=000000&tc=EEEEEE&ic=068FFF&bc=4E4FEB">
+</p>
+
+
+
+
+<!--
+### Repositories: 
+
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=aryakoureshi&show_icons=true&theme=transparent"/>
   <img width="51%" src="https://github-readme-streak-stats.herokuapp.com/?user=aryakoureshi&theme=transparent"/>
 </p>
-
-<!--
-### Repositories: 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aryakoureshi&repo=Emotion-Detection&show_icons=true&theme=transparent)](https://github.com/aryakoureshi/Emotion-Detection)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aryakoureshi&repo=Brain-tumor-detection&show_icons=true&theme=transparent)](https://github.com/aryakoureshi/Brain-tumor-detection)
