@@ -18,6 +18,9 @@
   <img width="51%" src="https://github-readme-streak-stats.herokuapp.com/?user=aryakoureshi&theme=transparent" />
 </p>
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aryakoureshi&repo=Brain-tumor-detection)](https://github.com/aryakoureshi/Brain-tumor-detection)
+
+
 <!--
 **AryaKoureshi/AryaKoureshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
