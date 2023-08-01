@@ -1,6 +1,4 @@
-### Hi there 👋
-
-**I'm Arya Koureshi.**  
+![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=EEEDED&text=Hi%20there👋&height=150&fontSize=40&animation=fadeIn&desc=I'm%20Arya%20Koureshi&descAlignY=75&descAlign=60)
 
 **Masters student of Biomedical Engineering (Bioelectric) at Sharif University of Technology**
 
@@ -17,8 +15,6 @@
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=aryakoureshi&show_icons=true&theme=transparent"/>
   <img width="51%" src="https://github-readme-streak-stats.herokuapp.com/?user=aryakoureshi&theme=transparent"/>
 </p>
-
-[![](https://visitcount.itsvg.in/api?id=aryakoureshi&label=Profile%20Views&color=12&icon=5&pretty=false)](https://visitcount.itsvg.in)
 
 <!--
 ### Repositories: 
