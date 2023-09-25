@@ -4,7 +4,7 @@
 
 **Researcher at [Ghazizadeh Lab](https://www.ghazizadehlab.org/index.php/people/)**
 
-**Researcher at Sharif Brain Center (SBC)**
+**Researcher at [Sharif Brain Center (SBC)](http://brain.ee.sharif.edu/)**
 
 
 **I am interested in BCI, brain-to-brain interfaces (BBIs), and Neuroscience. Currently, I am working on developing a real-time motor imagery-based BCI in an exoskeleton.**
