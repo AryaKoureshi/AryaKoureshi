@@ -18,7 +18,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=aryakoureshi&label=Profile%20views&color=4E4FEB&style=flat" alt="aryakoureshi" /> </p>
 
-<p align="center"> <a href="https://github.com/aryakoureshi/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aryakoureshi&theme=onestar" alt="aryakoureshi" /></a> </p>
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=aryakoureshi&theme=onestar" alt="aryakoureshi" /> </p>
 
 <!--
 ### Repositories: 
